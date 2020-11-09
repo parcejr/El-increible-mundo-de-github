@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: palevioletred;
+    background-color: papayawhip;
+}
+.S1header{
+    width: 70%;
+    padding: 1em;
+    border: 1px solid black;
+    text-align: center;
+}
